@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+artifacts/*.joblib
+artifacts/*.json
+.DS_Store
+.idea/
+.vscode/
